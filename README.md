@@ -63,3 +63,74 @@
           </div>
       </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STYLE:
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+#top {
+text-align: center;
+
+}   
+
+#logo {
+color:white;
+;background-color: rgb(9, 9, 82);
+display: inline-block;
+font-size: 32px;
+font-weight: bold;
+padding: 8px;
+margin-top: 16px;
+
+}
+
+#logo-name {
+font-size: 32px;
+font-weight: bold;
+margin: 30px;
+
+}
+
+#navigation a {
+    color:grey;
+    padding: 8px;
+}
+
+#navigation a:hover {
+    color:rgb(9, 9, 82)
+}
+
+#image img {
+    width: 100%;
+    margin: 16px;
+}
+
+#main {
+    max-width: 800px;
+    margin:auto ;
+    text-align: left;
+    padding: 16px;
+}
+
+#footer {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
